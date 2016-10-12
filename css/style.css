@@ -332,3 +332,16 @@ pre {
   float: left;
   padding-right: 1em;
 }
+
+p {
+  padding-bottom: 15px !important;
+}
+
+ul li {
+  padding-bottom: 15px !important;
+}
+
+.big-width {
+  width: 1500px !important;
+  margin-left:-300px !important;
+}
